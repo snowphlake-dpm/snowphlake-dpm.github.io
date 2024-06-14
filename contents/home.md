@@ -9,7 +9,7 @@ This webpage contains machine-learning models trained in this large-scale multi-
 [![Snowphlake](https://img.shields.io/badge/Snowphlake-github-blue)](https://github.com/snowphlake-dpm/snowphlake)
 
 #### GitHub with SuStaIn source code (developed and maintained by CMIC, UCL)
-[![SuStaIn](https://img.shields.io/badge/SuStaIn-github-blue](https://github.com/ucl-pond/pySuStaIn)
+[![SuStaIn](https://img.shields.io/badge/SuStaIn-github-blue)](https://github.com/ucl-pond/pySuStaIn)
 
 #### Email
 v.venkatraghavan[at]amsterdamumc.nl
