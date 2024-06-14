@@ -11,6 +11,13 @@ This webpage contains machine-learning models trained in this large-scale multi-
 #### GitHub with SuStaIn source code (developed and maintained by CMIC, UCL)
 [![SuStaIn](https://img.shields.io/badge/SuStaIn-github-blue)](https://github.com/ucl-pond/pySuStaIn)
 
+#### Trained Models
+- Archive with all the trained models. [Download (26.4 MB)](https://raw.githubusercontent.com/snowphlake-dpm/snowphlake-dpm.github.io/main/trained_models.zip)
+
+- Jupyter Notebook and others scripts to predict subtypes using the trained models. [Download](https://raw.githubusercontent.com/snowphlake-dpm/snowphlake-dpm.github.io/main/codes.zip)
+
+- IDs of ADNI patient data to be downloaded and processed so as to be used as a reference batch for volumetric harmonization [Download](https://raw.githubusercontent.com/snowphlake-dpm/snowphlake-dpm.github.io/main/ADNI_reference_batch.csv)
+
 #### Email
 v.venkatraghavan[at]amsterdamumc.nl
 
