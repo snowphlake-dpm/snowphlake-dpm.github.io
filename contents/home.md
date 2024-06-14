@@ -5,7 +5,7 @@ and if their detected subtypes are consistent with each other.
 
 This webpage contains machine-learning models trained in this large-scale multi-center study [pre-print link], and contains code to use these trained models in other cohorts not included in this study.
 
-#### GitHub with Snowphlake source code
+#### GitHub with Snowphlake source code (developed and maintained by Alzheimer center, Amsterdam UMC)
 [![Snowphlake](https://img.shields.io/badge/Snowphlake-github-blue)](https://github.com/snowphlake-dpm/snowphlake)
 
 #### GitHub with SuStaIn source code (developed and maintained by CMIC, UCL)
