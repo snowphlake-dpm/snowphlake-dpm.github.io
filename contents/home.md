@@ -14,4 +14,10 @@ This webpage contains machine-learning models trained in this large-scale multi-
 #### Email
 v.venkatraghavan[at]amsterdamumc.nl
 
+#### Funding
+This study was supported by the Early Detection of Alzheimer's Disease Subtypes (E-DADS) project, an EU Joint Programme - Neurodegenerative Disease Research (JPND) project (see www.jpnd.eu). 
+The project is supported under the aegis of JPND through the following funding organizations: United Kingdom, Medical Research Council (MR/T046422/1); 
+Netherlands, ZonMW (733051106); France, Agence Nationale de la Recherche (ANR-19-JPW2–000); 
+Italy, Italian Ministry of Health (MoH); Australia, National Health & Medical Research Council (1191535); 
+Hungary, National Research, Development and Innovation Office (2019–2.1.7-ERA-NET-2020–00008). 
 
